@@ -2,6 +2,8 @@ Fundação Getulio Vargas
 
 Mestrado em Modelagem Matemática
 
+Introdução à Recuperação de Informações
+
 Prof. Flávio Codeço Coelho
 
 Aluno: Luiz Fernando Maia
